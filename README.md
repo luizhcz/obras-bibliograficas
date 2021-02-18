@@ -30,7 +30,7 @@ Altere o arquivo README para descrever quais componentes foram utilizados e como
 
 ## Projeto
 
-[Projeto](https://github.com/luizhcz/Obras)
+[Caminho para o projeto](https://github.com/luizhcz/Obras)
 
 Tecnologias Utilizadas:
 * NET Core
