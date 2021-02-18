@@ -27,3 +27,26 @@ As seguintes regras devem ser seguidas nesta formatação:
 Realize um fork deste repositório, desenvolva sua solução e encaminhe o seu repositório com o seu código. Arquivos compactados não serão aceitos.
 
 Altere o arquivo README para descrever quais componentes foram utilizados e como sua aplicação deverá ser executada.
+
+## Projeto
+
+[Projeto](https://github.com/luizhcz/Obras)
+
+Tecnologias Utilizadas:
+* NET Core
+* Entity Framework, Migrations
+* Moq
+* Sql Server
+* Angular 7
+
+## Build
+
+Frontend:
+* Instalar as dependencias do Angular.
+* Caso tenha que alterar o endpoint, o caminho se encontra no destino (src/app/app.module).
+* User o comando "ng serve" para iniciar o projeto.
+
+Backend
+* Alterar a configuração da ConnectionString, o caminho se encontra no destino (Obras.Services/appsettings).
+* Use o comando "Update-database" para criar o scopo das tabelas pelo migrations.
+* Inicie o projeto (Obras.Services)
